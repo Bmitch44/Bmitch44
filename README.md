@@ -20,4 +20,4 @@ I'm a third-year Computer Science student at Memorial University. I am passionat
 
 [![Brady's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Bmitch44&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![Brady's github activity graph](https://activity-graph.herokuapp.com/graph?username=Bmitch44&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Brady's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Bmitch44&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)

@@ -9,10 +9,13 @@ I'm a third-year Computer Science student at Memorial University. I am passionat
 ## 🌱 I'm currently working on
 
 - [Textract Demo](https://github.com/Bmitch44/textract-demo.git) - A project which leverages AWS Textract to extract information from unstructured PDF documents
+- [PyCanvas](https://github.com/Bmitch44/PyCanvas) - A programmatic way to create `.canvas` files for Obsidian.md
 
 ## 📫 How to reach me
 
 - Email: bradymitchelmore@gmail.com
+
+## 📊 My Stats
 
 <table>
   <tr>

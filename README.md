@@ -19,10 +19,11 @@ I'm a third-year Computer Science student at Memorial University. I am passionat
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bmitch44" alt="Top Langs"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Bmitch44&show_icons=true&theme=radical" alt="Brady's GitHub stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bmitch44&theme=radical" alt="Brady's GitHub streak"></td>
+   </td>
   </tr>
   <tr>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Bmitch44&theme=radical" alt="Brady's GitHub streak"></td>
+     <td><img src="https://github-readme-stats.vercel.app/api?username=Bmitch44&show_icons=true&theme=radical" alt="Brady's GitHub stats">
     <td><img src="https://github-readme-activity-graph.vercel.app/graph?username=Bmitch44&theme=dracula" alt="Brady's GitHub activity graph"></td>
   </tr>
 </table>

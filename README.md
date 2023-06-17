@@ -18,7 +18,7 @@ I'm a third-year Computer Science student at Memorial University. I am passionat
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bmitch44" alt="Top Langs" width="400px"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bmitch44" alt="Top Langs" width="400px" height="225px"></td>
     <td><img src="https://github-readme-stats.vercel.app/api?username=Bmitch44&show_icons=true&theme=radical" alt="Brady's GitHub stats" width="495px"></td>
   </tr>
   <tr>

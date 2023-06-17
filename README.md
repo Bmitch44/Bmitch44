@@ -16,6 +16,8 @@ I'm a third-year Computer Science student at Memorial University. I am passionat
 
 - Email: bradymitchelmore@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bmitch44)
+
 ![Brady's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bmitch44&show_icons=true&theme=radical)
 
 [![Brady's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Bmitch44&theme=radical)](https://github.com/DenverCoder1/github-readme-streak-stats)

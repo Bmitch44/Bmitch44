@@ -1,7 +1,5 @@
 # Hi there, I'm Brady Mitchelmore 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=Bmitch44)
-
 I'm a third-year Computer Science student at Memorial University. I am passionate about leveraging technology to improve life and I'm always eager to learn more and grow.
 
 ## 🎓 Education

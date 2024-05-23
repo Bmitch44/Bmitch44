@@ -10,9 +10,6 @@ I'm a third-year Computer Science student at Memorial University. I am passionat
 
 - Email: bradymitchelmore@gmail.com
 
-## My Activity
-<img src="https://wakatime.com/share/@bmitch44/e87ce4cf-94a1-49d8-9d5b-48bf718f489d.svg" style="background-color: #fff; margin: 5px;"></img>
-
 ## My Stats
 <table>
   <tr>

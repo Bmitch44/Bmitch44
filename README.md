@@ -4,7 +4,7 @@ I'm a Software Developer working in a AI & Automation architect role at my curre
 
 ## 🎓 Education
 
-- BSc in Computer Science, Memorial University, 2021-2026
+- BSc in Computer Science, Artificial Intelligence & Visual Computing and Games concentrations, Memorial University, 2021-2026
 
 ## 📫 How to reach me
 
